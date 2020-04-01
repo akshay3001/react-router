@@ -12,6 +12,12 @@ function Nav() {
                 <Link className="links" to="/contact">
                     <li>Contact</li>
                 </Link>
+                <Link className="links" to="/user">
+                    <li>User</li>
+                </Link>
+                <Link className="links" to="/posts">
+                    <li>Posts</li>
+                </Link>
             </ul>
         </nav>
     );
