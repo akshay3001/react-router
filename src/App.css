@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.nav-bar {
+    display: flex;
+    list-style-type: none;
+}
+
+.links {
+  color: black;
+  font-weight: 700;
+  font-size: 20;
+  padding: 20px;
+  text-decoration: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
